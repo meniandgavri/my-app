@@ -1,0 +1,21 @@
+@import url('//fonts.googleapis.com/css?family=Pacifico&text=Pure');
+@import url('//fonts.googleapis.com/css?family=Roboto:700&text=css');
+@import url('//fonts.googleapis.com/css?family=Kaushan+Script&text=!');
+
+body { 
+  text-align: center;
+  min-height: 450px;
+  height: 100vh;
+  margin: 0;
+  background: radial-gradient(circle, darken(dodgerblue, 10%), #1f4f96, #1b2949, #000);
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    margin-top: auto;
+}
+.mystyle{
+    margin-top:70px;
+    text-align: center;
+}
